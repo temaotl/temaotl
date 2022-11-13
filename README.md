@@ -1,4 +1,4 @@
-# Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, i'm a bacelor student in CTU
+# Hi my name is Artem  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">, and i'm a bacelor student in CTU
 
 ## 💻  OS what i use 
 ![Windows](https://img.shields.io/badge/-Windows%2010-4bc588?style=for-the-badge&logo=windows)
